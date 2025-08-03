@@ -68,3 +68,12 @@ CREATE TABLE Districts (
     Name NVARCHAR(100) NOT NULL,
     CONSTRAINT FK_Districts_Cities FOREIGN KEY (CityId) REFERENCES Cities(Id)
 );
+
+2. **SQL Betiğini Çalıştırın**
+
+turkiye_adres_veritabani.sql dosyasını açın.
+
+Tabloların bulunduğu veritabanında çalıştırın.
+
+Betik otomatik olarak verileri ekleyecektir.
+
