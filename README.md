@@ -71,7 +71,7 @@ CREATE TABLE Districts (
 
 2. **SQL Betiğini Çalıştırın**
 
-turkiye_adres_veritabani.sql dosyasını açın.
+tr-il-ilce-query.sql dosyasını açın.
 
 Tabloların bulunduğu veritabanında çalıştırın.
 
