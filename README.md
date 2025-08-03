@@ -92,14 +92,6 @@ SELECT * FROM Districts;
 
 ## 🚨 Önemli Notlar
 
-- İller **alfabetik sırayla** eklenmiştir. Bu nedenle `CityId` değerleri **plaka kodlarıyla birebir eşleşmez**. Örneğin:
-  - Adana → `CityId = 1`
-  - Ankara → `CityId = 6`
-
-- Eğer il ve ilçe ID’lerinin plaka kodlarıyla uyumlu olmasını istiyorsanız:
-  - `SET IDENTITY_INSERT` satırlarını **aktif hale getirin**,
-  - Ve verileri manuel ID’lerle ekleyecek şekilde düzenleyin.
-
 - İlçeler, şehirlerin veritabanına eklenme sırasına göre `CityId` ile eşleştirilmiştir.
 
 ---
