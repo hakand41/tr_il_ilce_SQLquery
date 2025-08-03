@@ -131,4 +131,3 @@ Eğer veri güncellemeleri, yeni ilçeler veya veri formatları (ör. JSON, CSV)
 ## 📫 İletişim
 
 Her türlü soru ve öneri için GitHub üzerinden iletişime geçebilirsiniz.  
-Alternatif olarak bir iletişim adresi belirtilebilir.
